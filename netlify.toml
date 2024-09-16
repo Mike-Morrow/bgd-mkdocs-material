@@ -3,5 +3,5 @@
   publish = "site"
 
 [context.production.environment]
-  PYTHON_VERSION = "3.10"
+  PYTHON_VERSION = "3.8"
 
